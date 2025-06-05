@@ -1,5 +1,7 @@
 # 🏦 Modelo de Scoring para Clientes con Potencial de Reinversión en Depósitos a Plazo
 
+![Scoring](https://image.lexica.art/full_webp/753b96a1-05fd-4881-a935-52738ee72151)
+
 Este proyecto tiene como objetivo desarrollar un modelo de **Machine Learning** que evalúe y clasifique a los clientes de un banco según su **probabilidad de volver a invertir en depósitos a plazo**. El modelo asigna un **score o ranking** a cada cliente para facilitar la toma de decisiones comerciales y optimizar las campañas de retención y reinversión.
 
 ---
